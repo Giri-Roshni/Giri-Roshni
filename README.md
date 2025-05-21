@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A New chapter begins
 --------------------
 
-Hey! I'm Roshani enthusiastic Bachelor of IT student with a passion for exploring the world of programming, technology, and problem-solving. My journey into the world of coding has just begun, but every day is a step closer to efficient, and impactful code.
+Hey! I'm Roshani enthusiastic Bachelor of IT Engineering student with a passion for exploring the world of programming, technology, and problem-solving. My journey into the world of coding has just begun, but every day is a step closer to efficient, and impactful code.
 
 * 🌍  I'm based in Lalitpur,Nepal
 * 🧠  I'm learning Embarking on a Pythonic Journey
