@@ -38,4 +38,4 @@ Hey! I'm Roshani enthusiastic Bachelor of IT Engineering student with a passion 
 
 <a href="http://www.github.com/Giri-Roshni"><img src="https://github-readme-stats.vercel.app/api?username=Giri-Roshni&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="Giri-Roshni's GitHub stats" /></a>
 
-<a href="https://github.com/Giri-Roshni" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giri-Roshni&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
