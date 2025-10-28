@@ -11,10 +11,18 @@ Hey! I'm Roshani enthusiastic Bachelor of IT Engineering student with a passion 
 * ⚡  As I navigate through my studies and projects, I aim to bridge the gap between theoretical knowledge and practical implementation.
 
 
+<h1 align="center">Hi 👋,This is Roshani Giri.</h1>
+<h3 align="center">Hey! I'm enthusiastic Bachelor of IT Engineering student with a passion for exploring the world of programming, technology, and problem-solving. My journey into the world of coding has just begun, but every day is a step closer to efficient, and impactful code. 🌍 I'm based in Lalitpur,Nepal 🧠 I'm learning Embarking on a Pythonic Journey ⚡ As I navigate through my studies and projects, I aim to bridge the gap between theoretical knowledge and practical implementation.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=giri-roshni&label=Profile%20views&color=0e75b6&style=flat" alt="giri-roshni" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giri-roshni" alt="giri-roshni" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/roshni giri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshni giri" height="30" width="40" /></a>
+<a href="https://instagram.com/roshni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roshni" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/roshni giri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="roshni giri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
