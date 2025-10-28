@@ -11,8 +11,6 @@ Hey! I'm Roshani enthusiastic Bachelor of IT Engineering student with a passion 
 * ⚡  As I navigate through my studies and projects, I aim to bridge the gap between theoretical knowledge and practical implementation.
 
 
-<h1 align="center">Hi 👋,This is Roshani Giri.</h1>
-<h3 align="center">Hey! I'm enthusiastic Bachelor of IT Engineering student with a passion for exploring the world of programming, technology, and problem-solving. My journey into the world of coding has just begun, but every day is a step closer to efficient, and impactful code. 🌍 I'm based in Lalitpur,Nepal 🧠 I'm learning Embarking on a Pythonic Journey ⚡ As I navigate through my studies and projects, I aim to bridge the gap between theoretical knowledge and practical implementation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giri-roshni&label=Profile%20views&color=0e75b6&style=flat" alt="giri-roshni" /> </p>
 
