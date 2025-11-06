@@ -37,10 +37,5 @@ Hey! I'm Roshani enthusiastic Bachelor of IT Engineering student with a passion 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giri-roshni&" alt="giri-roshni" /></p>
 
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Giri-Roshni"><img src="https://github-readme-stats.vercel.app/api?username=Giri-Roshni&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="Giri-Roshni's GitHub stats" /></a>
 
 
