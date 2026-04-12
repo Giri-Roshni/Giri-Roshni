@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Roshani Giri</h1>
+<h1 align="center">Here Roshani Giri</h1>
 <h3 align="center">🚀 Data Science Enthusiast | Backend Developer | AI/ML Learner</h3>
 
 <p align="center">
@@ -26,9 +26,6 @@
 ✔️ Ability to turn **raw data → meaningful insights → working systems**  
 ✔️ Fast learner with strong problem-solving mindset  
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giri-roshni&label=Profile%20views&color=0e75b6&style=flat" alt="giri-roshni" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giri-roshni" alt="giri-roshni" /></a> </p>
 
