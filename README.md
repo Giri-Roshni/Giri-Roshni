@@ -1,5 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roshani Giri
-====================================================================================================================================
+
 
 <h1 align="center">Hi 👋, I'm Roshani Giri</h1>
 <h3 align="center">🚀 Data Science Enthusiast | Backend Developer | AI/ML Learner</h3>
