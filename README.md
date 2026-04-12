@@ -117,9 +117,7 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giri-roshni&show_icons=true&locale=en&layout=compact" alt="giri-roshni" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giri-roshni&show_icons=true&locale=en" alt="giri-roshni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giri-roshni&" alt="giri-roshni" /></p>
 
