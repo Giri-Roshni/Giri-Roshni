@@ -1,14 +1,31 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roshani Giri
 ====================================================================================================================================
 
-A New chapter begins
---------------------
+<h1 align="center">Hi 👋, I'm Roshani Giri</h1>
+<h3 align="center">🚀 Data Science Enthusiast | Backend Developer | AI/ML Learner</h3>
 
-Hey! I'm Roshani enthusiastic Bachelor of IT Engineering student with a passion for exploring the world of programming, technology, and problem-solving. My journey into the world of coding has just begun, but every day is a step closer to efficient, and impactful code.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Turning+Data+into+Insights;Building+Scalable+Backends;Learning+AI+%26+Machine+Learning;Future+Data+Scientist&center=true&width=500&height=50">
+</p>
 
-* 🌍  I'm based in Lalitpur,Nepal
-* 🧠  I'm learning Embarking on a Pythonic Journey
-* ⚡  As I navigate through my studies and projects, I aim to bridge the gap between theoretical knowledge and practical implementation.
+---
+
+## 🌟 About Me  
+
+💡 Passionate IT Engineering student from Nepal 🇳🇵  
+🔍 Focused on **Data Science, AI/ML & Backend Development**  
+🚀 I love solving real-world problems using data and scalable systems  
+
+✨ *I don’t just learn technology — I build solutions with it.*  
+
+---
+
+## What Makes Me Different  
+
+✔️ Strong combination of **Data Science + Backend Development**  
+✔️ Hands-on experience with **real-world datasets & projects**  
+✔️ Ability to turn **raw data → meaningful insights → working systems**  
+✔️ Fast learner with strong problem-solving mindset  
 
 
 
