@@ -121,7 +121,6 @@
 
 </p>
 
-these are on vertical make it horizontal but not more than screen size
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giri-roshni&" alt="giri-roshni" /></p>
 
